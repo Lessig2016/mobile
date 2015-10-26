@@ -76,7 +76,6 @@ Most actions have additional fields that are needed to fulfil the integrations, 
 | Attribute | Data Type | Required | Description | 
 | --------- | --------- | -------- | ----------- |
 | body | string | Y | The text that should pre-populate as the tweet. | 
-| ref | string | N | The url that should be included in the tweet which is automatically url shortened by Twitter's t.co service. |
 
 #### Retweet a Message: `retweet`
 
